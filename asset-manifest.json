@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/app-mongoose/static/css/main.5a338815.chunk.css",
+    "main.js": "/app-mongoose/static/js/main.8249a063.chunk.js",
+    "main.js.map": "/app-mongoose/static/js/main.8249a063.chunk.js.map",
+    "runtime-main.js": "/app-mongoose/static/js/runtime-main.315dab85.js",
+    "runtime-main.js.map": "/app-mongoose/static/js/runtime-main.315dab85.js.map",
+    "static/js/2.e3d88710.chunk.js": "/app-mongoose/static/js/2.e3d88710.chunk.js",
+    "static/js/2.e3d88710.chunk.js.map": "/app-mongoose/static/js/2.e3d88710.chunk.js.map",
+    "index.html": "/app-mongoose/index.html",
+    "static/css/main.5a338815.chunk.css.map": "/app-mongoose/static/css/main.5a338815.chunk.css.map",
+    "static/js/2.e3d88710.chunk.js.LICENSE.txt": "/app-mongoose/static/js/2.e3d88710.chunk.js.LICENSE.txt",
+    "static/media/user.35a9c90c.jpg": "/app-mongoose/static/media/user.35a9c90c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.315dab85.js",
+    "static/js/2.e3d88710.chunk.js",
+    "static/css/main.5a338815.chunk.css",
+    "static/js/main.8249a063.chunk.js"
+  ]
+}
